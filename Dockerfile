@@ -1,3 +1,2 @@
-FROM dockurr/windows
-EXPOSE 3389
-EXPOSE 8006
+FROM dorowu/ubuntu-desktop-lxde-vnc
+EXPOSE 80
