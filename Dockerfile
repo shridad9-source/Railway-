@@ -1,0 +1,3 @@
+FROM dockurr/windows
+EXPOSE 3389
+EXPOSE 8006
