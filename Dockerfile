@@ -1,2 +1,1 @@
-FROM solarkennedy/wine-x11-novnc-docker
-EXPOSE 8080
+FROM amitie10g/kali-rolling:kali-desktop-xfce
