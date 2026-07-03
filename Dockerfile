@@ -1,2 +1,2 @@
-FROM dorowu/ubuntu-desktop-lxde-vnc
-EXPOSE 80
+FROM solarkennedy/wine-x11-novnc-docker
+EXPOSE 8080
